@@ -1,4 +1,6 @@
 @import "./vars.css";
+@import '@fontsource/unifont';
+
 
 .App {
   background-color: #fff;
