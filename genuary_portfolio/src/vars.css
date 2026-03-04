@@ -1,11 +1,5 @@
-
-/* :root {
-colours
---color-text:;
---color-primary:;
---color-secondary:;
---color-dark:;
---color-bg:;
-Fonts
---font-x:;
-} */
+:root {
+  /* Fonts */
+  --font-primary: "Unifont", sans-serif; /* major font */
+  --font-secondary: "Pixelify Sans", sans-serif; /* secondary font */
+}
