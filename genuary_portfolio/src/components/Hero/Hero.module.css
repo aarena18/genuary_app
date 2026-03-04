@@ -1,0 +1,14 @@
+p,
+a,
+h3,
+span {
+  font-family: var(--font-primary);
+  font-size: 22px;
+}
+
+.HeroWrapper {
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: right;
+}
